@@ -10,15 +10,17 @@ CONFIG += c++11
 
 SOURCES += \
     digitalclock.cpp \
+    machinesoverview.cpp \
     main.cpp \
     mainwindow.cpp
 
 HEADERS += \
     digitalclock.h \
+    machinesoverview.h \
     mainwindow.h
 
 FORMS += \
-    machines.ui \
+    machinesoverview.ui \
     mainwindow.ui
 
 TRANSLATIONS += \
