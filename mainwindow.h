@@ -16,6 +16,10 @@ public:
     ~MainWindow();
 
 private:
+    void createActions();
     Ui::MainWindow *ui;
+
+private slots:
+    void exit();
 };
 #endif // MAINWINDOW_H
