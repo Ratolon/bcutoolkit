@@ -17,9 +17,11 @@ public:
 
 private:
     void createActions();
+    void clearLayout(QLayout* layout);
     Ui::MainWindow *ui;
 
 private slots:
+    void clearMainContainer();
     void exit();
 };
 #endif // MAINWINDOW_H

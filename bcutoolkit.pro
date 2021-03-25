@@ -12,15 +12,18 @@ SOURCES += \
     digitalclock.cpp \
     machinesoverview.cpp \
     main.cpp \
+    mainpage.cpp \
     mainwindow.cpp
 
 HEADERS += \
     digitalclock.h \
     machinesoverview.h \
+    mainpage.h \
     mainwindow.h
 
 FORMS += \
     machinesoverview.ui \
+    mainpage.ui \
     mainwindow.ui
 
 TRANSLATIONS += \
