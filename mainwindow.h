@@ -22,6 +22,7 @@ private:
 
 private slots:
     void clearMainContainer();
+    void loadMainWindow();
     void exit();
 };
 #endif // MAINWINDOW_H

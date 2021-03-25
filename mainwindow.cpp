@@ -3,8 +3,8 @@
 #include "mainpage.h"
 #include<QDebug>
 
-QWidget* widgetActual;
-QWidget* mainpage;
+QWidget* widgetActual = NULL;
+QWidget* mainpage = NULL;
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -12,12 +12,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
     this->createActions();
-    mainpage = new mainPage();
 
-    this->ui->contenedorPrincipal->insertWidget(0, mainpage);
-    qInfo() << "berga1\n";
-    this->ui->contenedorPrincipal->removeWidget(this->ui->contenedorPrincipal->widget());
-    qInfo() << "berga2\n";
 }
 
 void MainWindow::clearLayout(QLayout* layout) {
@@ -40,7 +35,16 @@ MainWindow::~MainWindow()
 }
 
 void MainWindow::clearMainContainer(){
-    clearLayout(this->ui->contenedorPrincipal);
+    if(widgetActual != NULL) clearLayout(this->ui->contenedorPrincipal);
+    widgetActual = NULL;
+}
+
+void MainWindow::loadMainWindow(){
+    if (widgetActual == NULL){
+        mainpage = new mainPage();
+        this->ui->contenedorPrincipal->addWidget(mainpage);
+        widgetActual = mainpage;
+    }
 }
 
 void MainWindow::exit(){
@@ -51,6 +55,8 @@ void MainWindow::exit(){
 void MainWindow::createActions()
 {
     // Menu bar: exit
-    connect(this->ui->actionExit, &QAction::triggered, this, &MainWindow::clearMainContainer);
+    connect(this->ui->actionExit, &QAction::triggered, this, &MainWindow::exit);
+    connect(this->ui->actionViewEmpty, &QAction::triggered, this, &MainWindow::clearMainContainer);
+    connect(this->ui->actionViewMain, &QAction::triggered, this, &MainWindow::loadMainWindow);
 }
 
