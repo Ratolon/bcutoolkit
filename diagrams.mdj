@@ -1046,7 +1046,7 @@
 											"font": "Arial;13;1",
 											"left": 528,
 											"top": 333,
-											"width": 169,
+											"width": 181.4296875,
 											"height": 13,
 											"text": "context_disk_types"
 										},
@@ -1072,7 +1072,7 @@
 													"font": "Arial;13;0",
 													"left": 533,
 													"top": 356,
-													"width": 159,
+													"width": 171.4296875,
 													"height": 13
 												},
 												{
@@ -1087,22 +1087,52 @@
 													"font": "Arial;13;0",
 													"left": 533,
 													"top": 371,
-													"width": 159,
+													"width": 171.4296875,
+													"height": 13
+												},
+												{
+													"_type": "ERDColumnView",
+													"_id": "AAAAAAF4fYm9YTmRp+Y=",
+													"_parent": {
+														"$ref": "AAAAAAF4fVUtbTdWV4k="
+													},
+													"model": {
+														"$ref": "AAAAAAF4fYm9VzmOQbE="
+													},
+													"font": "Arial;13;0",
+													"left": 533,
+													"top": 386,
+													"width": 171.4296875,
+													"height": 13
+												},
+												{
+													"_type": "ERDColumnView",
+													"_id": "AAAAAAF4fYpcQzmZk3U=",
+													"_parent": {
+														"$ref": "AAAAAAF4fVUtbTdWV4k="
+													},
+													"model": {
+														"$ref": "AAAAAAF4fYpcKTmWYJw="
+													},
+													"font": "Arial;13;0",
+													"left": 533,
+													"top": 401,
+													"width": 171.4296875,
 													"height": 13
 												}
 											],
 											"font": "Arial;13;0",
 											"left": 528,
 											"top": 351,
-											"width": 169,
-											"height": 38
+											"width": 181.4296875,
+											"height": 68
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 528,
 									"top": 328,
-									"width": 169,
-									"height": 61,
+									"width": 181.4296875,
+									"height": 91,
 									"nameLabel": {
 										"$ref": "AAAAAAF4fVUtbTdVa5Q="
 									},
@@ -1699,7 +1729,7 @@
 											"font": "Arial;13;1",
 											"left": 248,
 											"top": 589,
-											"width": 172.06689453125,
+											"width": 184.3369140625,
 											"height": 13,
 											"text": "disks"
 										},
@@ -1725,7 +1755,7 @@
 													"font": "Arial;13;0",
 													"left": 253,
 													"top": 612,
-													"width": 162.06689453125,
+													"width": 174.3369140625,
 													"height": 13
 												},
 												{
@@ -1740,7 +1770,7 @@
 													"font": "Arial;13;0",
 													"left": 253,
 													"top": 627,
-													"width": 162.06689453125,
+													"width": 174.3369140625,
 													"height": 13
 												},
 												{
@@ -1755,7 +1785,7 @@
 													"font": "Arial;13;0",
 													"left": 253,
 													"top": 642,
-													"width": 162.06689453125,
+													"width": 174.3369140625,
 													"height": 13
 												},
 												{
@@ -1770,7 +1800,7 @@
 													"font": "Arial;13;0",
 													"left": 253,
 													"top": 657,
-													"width": 162.06689453125,
+													"width": 174.3369140625,
 													"height": 13
 												},
 												{
@@ -1785,7 +1815,7 @@
 													"font": "Arial;13;0",
 													"left": 253,
 													"top": 672,
-													"width": 162.06689453125,
+													"width": 174.3369140625,
 													"height": 13
 												},
 												{
@@ -1800,21 +1830,21 @@
 													"font": "Arial;13;0",
 													"left": 253,
 													"top": 687,
-													"width": 162.06689453125,
+													"width": 174.3369140625,
 													"height": 13
 												}
 											],
 											"font": "Arial;13;0",
 											"left": 248,
 											"top": 607,
-											"width": 172.06689453125,
+											"width": 184.3369140625,
 											"height": 98
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 248,
 									"top": 584,
-									"width": 172.06689453125,
+									"width": 184.3369140625,
 									"height": 121,
 									"nameLabel": {
 										"$ref": "AAAAAAF4fV4UNze/cfI="
@@ -1842,7 +1872,7 @@
 											"font": "Arial;13;1",
 											"left": 704,
 											"top": 333,
-											"width": 217.103515625,
+											"width": 223.35595703125,
 											"height": 13,
 											"text": "disk_ensembles"
 										},
@@ -1868,7 +1898,7 @@
 													"font": "Arial;13;0",
 													"left": 709,
 													"top": 356,
-													"width": 207.103515625,
+													"width": 213.35595703125,
 													"height": 13
 												},
 												{
@@ -1883,7 +1913,7 @@
 													"font": "Arial;13;0",
 													"left": 709,
 													"top": 371,
-													"width": 207.103515625,
+													"width": 213.35595703125,
 													"height": 13
 												},
 												{
@@ -1898,7 +1928,7 @@
 													"font": "Arial;13;0",
 													"left": 709,
 													"top": 386,
-													"width": 207.103515625,
+													"width": 213.35595703125,
 													"height": 13
 												},
 												{
@@ -1913,22 +1943,37 @@
 													"font": "Arial;13;0",
 													"left": 709,
 													"top": 401,
-													"width": 207.103515625,
+													"width": 213.35595703125,
+													"height": 13
+												},
+												{
+													"_type": "ERDColumnView",
+													"_id": "AAAAAAF4faLpxjnTxxo=",
+													"_parent": {
+														"$ref": "AAAAAAF4fV4gATfNSx4="
+													},
+													"model": {
+														"$ref": "AAAAAAF4faLpvTnQY2w="
+													},
+													"font": "Arial;13;0",
+													"left": 709,
+													"top": 416,
+													"width": 213.35595703125,
 													"height": 13
 												}
 											],
 											"font": "Arial;13;0",
 											"left": 704,
 											"top": 351,
-											"width": 217.103515625,
-											"height": 68
+											"width": 223.35595703125,
+											"height": 83
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 704,
 									"top": 328,
-									"width": 217.103515625,
-									"height": 91,
+									"width": 223.35595703125,
+									"height": 106,
 									"nameLabel": {
 										"$ref": "AAAAAAF4fV4gATfMKBk="
 									},
@@ -2301,6 +2346,7 @@
 										"$ref": "AAAAAAF4fTEbGDZKBu0="
 									},
 									"name": "is_integrated",
+									"documentation": "Is this network card soldered in the motherboard?",
 									"type": "BOOLEAN",
 									"length": 0
 								}
@@ -2313,6 +2359,7 @@
 								"$ref": "AAAAAAF4fSI44DUY9Gg="
 							},
 							"name": "context_oses",
+							"documentation": "Table containing all of the OS versions present in the machines from the inventory.",
 							"columns": [
 								{
 									"_type": "ERDColumn",
@@ -2332,6 +2379,7 @@
 										"$ref": "AAAAAAF4fU4/CTam2Ms="
 									},
 									"name": "type",
+									"documentation": "Type of the OS i.e: Linux, BSD, MacOS, Windows",
 									"type": "VARCHAR",
 									"length": 0,
 									"primaryKey": true
@@ -2343,6 +2391,7 @@
 										"$ref": "AAAAAAF4fU4/CTam2Ms="
 									},
 									"name": "version",
+									"documentation": "Version i.e 10, Ubuntu 20.10, Mint 19, Manjaro 20",
 									"type": "VARCHAR",
 									"length": 0,
 									"primaryKey": true
@@ -2356,6 +2405,7 @@
 								"$ref": "AAAAAAF4fSI44DUY9Gg="
 							},
 							"name": "context_locations",
+							"documentation": "Table containing all of the locations where machines can be",
 							"columns": [
 								{
 									"_type": "ERDColumn",
@@ -2375,6 +2425,7 @@
 										"$ref": "AAAAAAF4fVDqcTbSJak="
 									},
 									"name": "location",
+									"documentation": "Canonical name of the location i.e: B13 Lab, CPD, M3",
 									"type": "VARCHAR",
 									"length": 0,
 									"unique": true
@@ -2388,6 +2439,7 @@
 								"$ref": "AAAAAAF4fSI44DUY9Gg="
 							},
 							"name": "context_machine_types",
+							"documentation": "Table containing all of the machine types available",
 							"columns": [
 								{
 									"_type": "ERDColumn",
@@ -2407,6 +2459,7 @@
 										"$ref": "AAAAAAF4fVIh/Db7Vrk="
 									},
 									"name": "type",
+									"documentation": "Type of the machine i.e: server, workstation, laptop, dev board",
 									"type": "VARCHAR",
 									"length": 0,
 									"unique": true
@@ -2420,6 +2473,7 @@
 								"$ref": "AAAAAAF4fSI44DUY9Gg="
 							},
 							"name": "context_statuses",
+							"documentation": "Table containing all of the possible statuses of the machines",
 							"columns": [
 								{
 									"_type": "ERDColumn",
@@ -2439,6 +2493,7 @@
 										"$ref": "AAAAAAF4fVKeszcfreA="
 									},
 									"name": "status",
+									"documentation": "The status i.e maintainance, working, off",
 									"type": "VARCHAR",
 									"length": 0,
 									"unique": true
@@ -2452,6 +2507,7 @@
 								"$ref": "AAAAAAF4fSI44DUY9Gg="
 							},
 							"name": "context_disk_types",
+							"documentation": "Table containing all of the disk types",
 							"columns": [
 								{
 									"_type": "ERDColumn",
@@ -2470,10 +2526,32 @@
 									"_parent": {
 										"$ref": "AAAAAAF4fVUtbTdSFpo="
 									},
-									"name": "type",
+									"name": "interface",
+									"documentation": "Physical interface i.e: ngff, m.2, SATA, SAS",
 									"type": "VARCHAR",
-									"length": 0,
-									"unique": true
+									"length": 0
+								},
+								{
+									"_type": "ERDColumn",
+									"_id": "AAAAAAF4fYm9VzmOQbE=",
+									"_parent": {
+										"$ref": "AAAAAAF4fVUtbTdSFpo="
+									},
+									"name": "technology",
+									"documentation": "Storage tech i.e: SSD, HDD, Hybrid\n",
+									"type": "VARCHAR",
+									"length": 0
+								},
+								{
+									"_type": "ERDColumn",
+									"_id": "AAAAAAF4fYpcKTmWYJw=",
+									"_parent": {
+										"$ref": "AAAAAAF4fVUtbTdSFpo="
+									},
+									"name": "bus",
+									"documentation": "Bus used i.e: SATA III, PCIE 3",
+									"type": "VARCHAR",
+									"length": 0
 								}
 							]
 						},
@@ -2484,6 +2562,7 @@
 								"$ref": "AAAAAAF4fSI44DUY9Gg="
 							},
 							"name": "machines",
+							"documentation": "Individual instances for every machine in the inventory",
 							"columns": [
 								{
 									"_type": "ERDColumn",
@@ -2503,6 +2582,7 @@
 										"$ref": "AAAAAAF4fV2HZTeI6Ek="
 									},
 									"name": "name",
+									"documentation": "Canonical name of the machine i.e: milgrom, hertz-dos",
 									"type": "VARCHAR",
 									"length": 0,
 									"primaryKey": true
@@ -2514,6 +2594,7 @@
 										"$ref": "AAAAAAF4fV2HZTeI6Ek="
 									},
 									"name": "ext_ip",
+									"documentation": "External ip assigned to the machine",
 									"type": "VARCHAR",
 									"length": 0
 								},
@@ -2524,6 +2605,7 @@
 										"$ref": "AAAAAAF4fV2HZTeI6Ek="
 									},
 									"name": "status",
+									"documentation": "FK to one of the possible statuses\n",
 									"type": "INTEGER",
 									"length": 0,
 									"foreignKey": true,
@@ -2538,6 +2620,7 @@
 										"$ref": "AAAAAAF4fV2HZTeI6Ek="
 									},
 									"name": "cpu_model",
+									"documentation": "FK to one of the CPU models from models_cpu\n",
 									"type": "INTEGER",
 									"length": 0,
 									"foreignKey": true,
@@ -2552,6 +2635,7 @@
 										"$ref": "AAAAAAF4fV2HZTeI6Ek="
 									},
 									"name": "cpu_count",
+									"documentation": "Amount of cpu_model units (NOT CORE COUNT)",
 									"type": "INTEGER",
 									"length": 0
 								},
@@ -2562,6 +2646,7 @@
 										"$ref": "AAAAAAF4fV2HZTeI6Ek="
 									},
 									"name": "ram",
+									"documentation": "Installed RAM, in GB",
 									"type": "INTEGER",
 									"length": 0
 								},
@@ -2572,6 +2657,7 @@
 										"$ref": "AAAAAAF4fV2HZTeI6Ek="
 									},
 									"name": "os",
+									"documentation": "FK to one of the OS'es from context_oses",
 									"type": "INTEGER",
 									"length": 0,
 									"foreignKey": true,
@@ -2586,6 +2672,7 @@
 										"$ref": "AAAAAAF4fV2HZTeI6Ek="
 									},
 									"name": "gpu_count",
+									"documentation": "Amount of discrete GPU's found in the system. If NULL or 0, only basic controller is present.",
 									"type": "INTEGER",
 									"length": 0,
 									"nullable": true
@@ -2599,6 +2686,7 @@
 								"$ref": "AAAAAAF4fSI44DUY9Gg="
 							},
 							"name": "networks",
+							"documentation": "Existing private and public networks used by the group",
 							"columns": [
 								{
 									"_type": "ERDColumn",
@@ -2618,6 +2706,7 @@
 										"$ref": "AAAAAAF4fV3EVTeVK7g="
 									},
 									"name": "name",
+									"documentation": "Canonical name of the network i.e: \"red talos\"",
 									"type": "VARCHAR",
 									"length": 0,
 									"primaryKey": true
@@ -2629,7 +2718,8 @@
 										"$ref": "AAAAAAF4fV3EVTeVK7g="
 									},
 									"name": "ip_version",
-									"type": "VARCHAR",
+									"documentation": "4 or 6 depending on the IP version used",
+									"type": "INTEGER",
 									"length": 0
 								},
 								{
@@ -2639,6 +2729,7 @@
 										"$ref": "AAAAAAF4fV3EVTeVK7g="
 									},
 									"name": "base_addr",
+									"documentation": "Base address of the network i.e: 192.168.12.0",
 									"type": "VARCHAR",
 									"length": 0
 								},
@@ -2649,6 +2740,7 @@
 										"$ref": "AAAAAAF4fV3EVTeVK7g="
 									},
 									"name": "mask",
+									"documentation": "Integer representing the mask i.e: 24, 21 NOT DOT NOTATION ",
 									"type": "INTEGER",
 									"length": 0
 								},
@@ -2659,8 +2751,10 @@
 										"$ref": "AAAAAAF4fV3EVTeVK7g="
 									},
 									"name": "dhcp_addr",
+									"documentation": "Address of the DHCP server responsible for this network. NULL if manual assignment is performed",
 									"type": "VARCHAR",
-									"length": 0
+									"length": 0,
+									"nullable": true
 								}
 							]
 						},
@@ -2734,6 +2828,7 @@
 								"$ref": "AAAAAAF4fSI44DUY9Gg="
 							},
 							"name": "gpus",
+							"documentation": "Relation table between machines and models_nvidia. List of all of the GPUS in the inventory linked to the machine\n",
 							"columns": [
 								{
 									"_type": "ERDColumn",
@@ -2753,8 +2848,13 @@
 										"$ref": "AAAAAAF4fV3tJzevxgo="
 									},
 									"name": "model",
+									"documentation": "ID of the instance GPU model, FK from models_nvidia",
 									"type": "INTEGER",
-									"length": 0
+									"length": 0,
+									"foreignKey": true,
+									"referenceTo": {
+										"$ref": "AAAAAAF4fS0bNjYYMS0="
+									}
 								},
 								{
 									"_type": "ERDColumn",
@@ -2763,8 +2863,13 @@
 										"$ref": "AAAAAAF4fV3tJzevxgo="
 									},
 									"name": "machine",
+									"documentation": "ID of the machine this GPU belongs to. FK from machines",
 									"type": "INTEGER",
-									"length": 0
+									"length": 0,
+									"foreignKey": true,
+									"referenceTo": {
+										"$ref": "AAAAAAF4fV5OajfXxoc="
+									}
 								}
 							]
 						},
@@ -2775,6 +2880,7 @@
 								"$ref": "AAAAAAF4fSI44DUY9Gg="
 							},
 							"name": "disks",
+							"documentation": "Disk inventory table",
 							"columns": [
 								{
 									"_type": "ERDColumn",
@@ -2794,6 +2900,7 @@
 										"$ref": "AAAAAAF4fV4UNze8u/c="
 									},
 									"name": "serial",
+									"documentation": "Serial number (SN) of the disk",
 									"type": "VARCHAR",
 									"length": 0,
 									"unique": true
@@ -2805,8 +2912,13 @@
 										"$ref": "AAAAAAF4fV4UNze8u/c="
 									},
 									"name": "machine",
+									"documentation": "ID of the machine this disk belongs to, FK from machines",
 									"type": "INTEGER",
-									"length": 0
+									"length": 0,
+									"foreignKey": true,
+									"referenceTo": {
+										"$ref": "AAAAAAF4fV5OajfXxoc="
+									}
 								},
 								{
 									"_type": "ERDColumn",
@@ -2815,8 +2927,13 @@
 										"$ref": "AAAAAAF4fV4UNze8u/c="
 									},
 									"name": "type",
+									"documentation": "Type of the disk",
 									"type": "INTEGER",
-									"length": 0
+									"length": 0,
+									"foreignKey": true,
+									"referenceTo": {
+										"$ref": "AAAAAAF4fVVDAzdfhwM="
+									}
 								},
 								{
 									"_type": "ERDColumn",
@@ -2825,6 +2942,7 @@
 										"$ref": "AAAAAAF4fV4UNze8u/c="
 									},
 									"name": "capacity",
+									"documentation": "Capacity of the disk in GB",
 									"type": "INTEGER",
 									"length": 0
 								},
@@ -2835,8 +2953,13 @@
 										"$ref": "AAAAAAF4fV4UNze8u/c="
 									},
 									"name": "ensemble",
+									"documentation": "Ensemble this disk belongs to. NULL if the disk is standalone",
 									"type": "INTEGER",
 									"length": 0,
+									"foreignKey": true,
+									"referenceTo": {
+										"$ref": "AAAAAAF4fWqcajjPNUc="
+									},
 									"nullable": true
 								}
 							]
@@ -2848,6 +2971,7 @@
 								"$ref": "AAAAAAF4fSI44DUY9Gg="
 							},
 							"name": "disk_ensembles",
+							"documentation": "Disk ensemble table. RAIDs, etc.",
 							"columns": [
 								{
 									"_type": "ERDColumn",
@@ -2867,6 +2991,7 @@
 										"$ref": "AAAAAAF4fV4gATfJ5M0="
 									},
 									"name": "machine",
+									"documentation": "ID of the machine this ensemble belongs to. FK from machines",
 									"type": "INTEGER",
 									"length": 0,
 									"foreignKey": true,
@@ -2881,6 +3006,7 @@
 										"$ref": "AAAAAAF4fV4gATfJ5M0="
 									},
 									"name": "disk_count",
+									"documentation": "Amount of disks belonging to this ensemble",
 									"type": "INTEGER",
 									"length": 0
 								},
@@ -2892,6 +3018,17 @@
 									},
 									"name": "total_capacity_TB",
 									"type": "INTEGER",
+									"length": 0
+								},
+								{
+									"_type": "ERDColumn",
+									"_id": "AAAAAAF4faLpvTnQY2w=",
+									"_parent": {
+										"$ref": "AAAAAAF4fV4gATfJ5M0="
+									},
+									"name": "type",
+									"documentation": "Type of the ensemble i.e: RAID 6, RAID 6+0, GROUP",
+									"type": "VARCHAR",
 									"length": 0
 								}
 							]
