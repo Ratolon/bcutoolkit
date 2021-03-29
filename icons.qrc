@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/icons">
-        <file>gres/search-512.png</file>
-        <file>gres/search-256.png</file>
-        <file>gres/eye_256.ico</file>
-        <file>gres/warehouse-256.png</file>
-        <file>gres/gear-256.png</file>
-    </qresource>
-</RCC>
