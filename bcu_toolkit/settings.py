@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'bcu_toolkit.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'HOST': '/var/run/mysql',
+        'HOST': 'localhost',
         'NAME': 'testdb',
         'USER': 'testuser',
         'PASSWORD': 'testpassword',
